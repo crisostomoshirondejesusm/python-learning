@@ -1,4 +1,4 @@
-
+print('='*35, 'inicio do programa', '='*35
 ''' Programa que faz a leitura de 3 numeros, compara-os e mostra o maior na tela '''
 
 '''Primeiro, pedimos para que o usuario insira os numero, no nosso caso interos'''
