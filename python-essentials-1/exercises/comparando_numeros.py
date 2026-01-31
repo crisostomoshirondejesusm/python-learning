@@ -1,8 +1,9 @@
 print('='*35, 'inicio do programa', '='*35
 ''' Programa que faz a leitura de 3 numeros, compara-os e mostra o maior na tela '''
 
-'''Primeiro, pedimos para que o usuario insira os numero, no nosso caso interos'''
+# INICIO DO PROGRMA 1
 
+'''Primeiro, pedimos para que o usuario insira os numero, no nosso caso interos'''
 
 
 # num1 = int(input('primeiro numero'))
@@ -37,10 +38,14 @@ e atualizamos novamente o seu valor se necessario'''
 # print(num1, num2, num3)
 
 
+# FIM DO PROGRAMA 1
 
 
 
-# podemos simplificar ainda mais esse codigo usando a função max() para o maior e min() para o minimo
+# podemos simplificar ainda mais esse programa usando a função max() para o maior e min() para o minimo
+
+# INICIO DO PROGRAMA 2
+
 
 # leitura dos numeros
 
@@ -54,3 +59,7 @@ maior_numero = max(num1, num2, num3)
 print(maior_numero)
 
 # par achar o menor valor de todos é so trocar max() por min()
+
+# FIM DO PROGRAMA 2
+
+# NB: existem varias outras formas de comparar 3 numeros em python, porem essas sao umas das mais abragentes e genericas
