@@ -13,7 +13,7 @@ while True: # enquanto for verdade, executa o loop do bloco que vem asseguir
 
     num = int(input('insira os numeros que pretende comparar e ( -1 para encerar)')) # recebe dados do usuario
 
-    if num == '-1': # condicao de parada do loop
+    if num == -1: # condicao de parada do loop
         break # impede que torne-se um loop infinito encerrando eessa parte do programa
     # porem permitindo com que a parte por baixo dessa linha comesse a ser executada
 
